@@ -6,15 +6,21 @@ Process results dependant on competition type and add these to a master datafram
 # Current Features
 
 CSV results processing for ISSF 50m Prone 60 shot competitions. 
+
 Creation of 'your competition name' tables in SQLite Database.
+
 Competition name duplicate checking
+
 Basic GUI for CSV Import
 
 # Future Features
 
 Average and Handicap Calculation
+
 More extensive error handling
+
 Results processing for ISSF 50m 3P and 10m Air Rifle.
+
 GUI Results Lookup 
 
 
